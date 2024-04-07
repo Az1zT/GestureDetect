@@ -16,4 +16,6 @@ Hardware used: Raspberry pi Pico, ADXL-335 accelerometer.
 
 This is the compiled version of the actual model. To see the training and data collection process, visit https://studio.edgeimpulse.com/studio/375387
 
+# Setup
 
+![setup](https://github.com/Az1zT/GestureDetect/media/setuo.jpg?raw=true)
