@@ -6,4 +6,5 @@ Hardware used: Raspberry pi Pico, ADXL-335 accelerometer.
 
 # How to use?
 
-1. 
+1. Clone the repo.
+2. 
