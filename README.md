@@ -18,4 +18,5 @@ This is the compiled version of the actual model. To see the training and data c
 
 # Setup
 
-![setup](https://github.com/Az1zT/GestureDetect/tree/5e859c73c80aa28409a647d1b0575d75d00a908a/media?raw=true)
+![setup](https://github.com/Az1zT/GestureDetect/blob/5e859c73c80aa28409a647d1b0575d75d00a908a/media/setup.jpg?raw=true)
+![setup](https://github.com/Az1zT/GestureDetect/blob/5e859c73c80aa28409a647d1b0575d75d00a908a/media/setup1.webp?raw=true)
